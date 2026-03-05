@@ -3,8 +3,6 @@ dist/
 .turbo/
 *.tsbuildinfo
 
-.env
-.env.local
 .env.*.local
 
 *.log
@@ -26,3 +24,4 @@ docker/data/
 docker/logs/
 docker/plugins/
 docker/import/
+config.bat
